@@ -21,6 +21,7 @@ let inStock = false;
 let selectedSize = "M"
 
 console.log(`$That item costs ${price} and the size is ${selectedSize}`)
+
 //Exercise 5
 let title = "Name of the Wind";
 let author = "Patrick Rothfuss";
